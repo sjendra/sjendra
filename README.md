@@ -1,4 +1,6 @@
-### Hi there 👋
+PPT Productivity helps you deliver polished presentations, faster
+
+Create, refine, and collaborate with the leading PowerPoint add-in https://pptproductivity.com
 
 <!--
 **sjendra/sjendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
